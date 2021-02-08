@@ -1666,3 +1666,277 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.08-13.31.38:588][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
 [2021.02.08-13.31.39:749][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2021.02.08-13.31.40:236][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2021.02.08-13.53.22:256][470]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-13.53.29:941][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-13.53.32:340][ 62]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.02.08-13.54.00:966][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.02.08-13.54.01:202][378]LogSavePackage: Moving '../../../../../../Kasiowe/Studia/silniki/KatarzynaKnefel/Saved/Untitled_Auto6C4505423485F9BE57DF435AA6116FE03.tmp' to '../../../../../../Kasiowe/Studia/silniki/KatarzynaKnefel/Saved/Autosaves/Game/StarterContent/Maps/Untitled_Auto6.umap'
+[2021.02.08-13.54.01:215][378]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Untitled' took 0.287
+[2021.02.08-13.54.01:215][378]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.287
+[2021.02.08-13.54.31:829][471]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-13.55.15:246][672]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-13.55.59:166][310]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-13.56.11:958][ 53]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-13.56.15:625][269]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-13.56.45:699][ 64]Cmd: TRANSACTION UNDO
+[2021.02.08-13.56.45:699][ 64]LogEditorTransaction: Undo Move Actors
+[2021.02.08-13.56.56:238][691]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-13.57.02:432][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-13.57.18:124][538]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-13.57.38:698][771]Cmd: TRANSACTION UNDO
+[2021.02.08-13.57.38:698][771]LogEditorTransaction: Undo Edit X
+[2021.02.08-13.57.47:029][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-13.58.01:442][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.08-13.58.36:283][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-13.58.38:380][399]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.02.08-13.58.42:131][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-13.58.50:536][124]Cmd: TRANSACTION UNDO
+[2021.02.08-13.58.50:536][124]LogEditorTransaction: Undo Move Actors
+[2021.02.08-13.58.57:972][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-13.59.09:750][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-13.59.13:274][388]Cmd: TRANSACTION UNDO
+[2021.02.08-13.59.13:274][388]LogEditorTransaction: Undo Set Location
+[2021.02.08-13.59.36:443][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-13.59.55:240][244]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.00.46:829][608]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.00.51:657][893]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.00.57:702][251]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.01.05:970][741]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.01.15:861][329]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.01.19:673][552]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.01.37:688][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.01.44:402][ 27]Cmd: TRANSACTION UNDO
+[2021.02.08-14.01.44:403][ 27]LogEditorTransaction: Undo Edit X
+[2021.02.08-14.01.47:782][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.01.50:092][362]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.01.55:914][705]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.02.35:589][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.03.22:047][744]Cmd: TRANSACTION UNDO
+[2021.02.08-14.03.22:047][744]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.08-14.03.22:412][763]Cmd: TRANSACTION UNDO
+[2021.02.08-14.03.22:413][763]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.08-14.03.23:796][843]Cmd: TRANSACTION UNDO
+[2021.02.08-14.03.23:796][843]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.08-14.03.24:444][880]Cmd: TRANSACTION UNDO
+[2021.02.08-14.03.24:444][880]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.08-14.03.25:285][929]Cmd: TRANSACTION UNDO
+[2021.02.08-14.03.25:285][929]LogEditorTransaction: Undo Create Actors
+[2021.02.08-14.03.32:185][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.03.36:708][601]LogRenderer: Reallocating scene render targets to support 1360x608 Format 10 NumSamples 1 (Frame:221486).
+[2021.02.08-14.03.36:749][603]LogRenderer: Reallocating scene render targets to support 1368x608 Format 10 NumSamples 1 (Frame:221489).
+[2021.02.08-14.03.36:847][608]LogRenderer: Reallocating scene render targets to support 1372x608 Format 10 NumSamples 1 (Frame:221497).
+[2021.02.08-14.04.05:919][342]Cmd: TRANSACTION UNDO
+[2021.02.08-14.04.05:919][342]LogEditorTransaction: Undo Move Actors
+[2021.02.08-14.04.06:248][358]Cmd: TRANSACTION UNDO
+[2021.02.08-14.04.06:248][358]LogEditorTransaction: Undo Scale Actors
+[2021.02.08-14.04.15:813][924]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.04.17:048][996]Cmd: TRANSACTION UNDO
+[2021.02.08-14.04.17:048][996]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.08-14.04.20:423][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.04.47:075][460]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.02.08-14.04.47:313][460]LogSavePackage: Moving '../../../../../../Kasiowe/Studia/silniki/KatarzynaKnefel/Saved/Untitled_Auto78042743D4FAC338A8CD6778AB882F438.tmp' to '../../../../../../Kasiowe/Studia/silniki/KatarzynaKnefel/Saved/Autosaves/Game/StarterContent/Maps/Untitled_Auto7.umap'
+[2021.02.08-14.04.47:321][460]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Untitled' took 0.290
+[2021.02.08-14.04.47:321][460]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.290
+[2021.02.08-14.05.29:692][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.05.31:651][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.05.33:319][396]Cmd: TRANSACTION UNDO
+[2021.02.08-14.05.33:319][396]LogEditorTransaction: Undo Create Actors
+[2021.02.08-14.05.33:320][396]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_206' invalid (64 verts, 0 indices).
+[2021.02.08-14.05.33:320][396]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_206.BodySetup_0 when we are unable to.
+[2021.02.08-14.05.33:540][407]Cmd: TRANSACTION UNDO
+[2021.02.08-14.05.33:540][407]LogEditorTransaction: Undo Create Actors
+[2021.02.08-14.05.36:910][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.06.00:021][989]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-14.06.09:692][567]Cmd: POLY SELECT ADJACENT ALL
+[2021.02.08-14.06.13:358][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.06.14:384][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.06.28:871][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-14.06.36:344][500]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.06.42:829][885]Cmd: TRANSACTION UNDO
+[2021.02.08-14.06.42:829][885]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.08-14.06.43:339][913]Cmd: TRANSACTION UNDO
+[2021.02.08-14.06.43:339][913]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.08-14.06.43:727][934]Cmd: TRANSACTION UNDO
+[2021.02.08-14.06.43:727][934]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.08-14.06.44:149][957]Cmd: TRANSACTION UNDO
+[2021.02.08-14.06.44:149][957]LogEditorTransaction: Undo Set Material
+[2021.02.08-14.06.44:540][978]Cmd: TRANSACTION UNDO
+[2021.02.08-14.06.44:540][978]LogEditorTransaction: Undo Select Brush Surface
+[2021.02.08-14.06.45:003][  4]Cmd: TRANSACTION UNDO
+[2021.02.08-14.06.45:003][  4]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.08-14.06.45:428][ 27]Cmd: TRANSACTION UNDO
+[2021.02.08-14.06.45:428][ 27]LogEditorTransaction: Undo Create Actors
+[2021.02.08-14.06.46:235][ 73]Cmd: TRANSACTION UNDO
+[2021.02.08-14.06.46:236][ 73]LogEditorTransaction: Undo Create Actors
+[2021.02.08-14.06.46:615][ 94]Cmd: TRANSACTION UNDO
+[2021.02.08-14.06.46:615][ 94]LogEditorTransaction: Undo Select All Adjacent
+[2021.02.08-14.06.47:436][141]Cmd: TRANSACTION UNDO
+[2021.02.08-14.06.47:436][141]LogEditorTransaction: Undo Select Surfaces
+[2021.02.08-14.06.55:544][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.06.57:709][753]Cmd: POLY SELECT ADJACENT ALL
+[2021.02.08-14.06.59:433][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.07.39:386][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.07.42:656][643]Cmd: TRANSACTION UNDO
+[2021.02.08-14.07.42:657][643]LogEditorTransaction: Undo Create Actors
+[2021.02.08-14.07.42:658][643]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_204' invalid (64 verts, 0 indices).
+[2021.02.08-14.07.42:658][643]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_204.BodySetup_0 when we are unable to.
+[2021.02.08-14.07.45:468][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.07.47:433][924]Cmd: POLY SELECT ADJACENT ALL
+[2021.02.08-14.07.49:193][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.08.11:640][361]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.09.51:025][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.09.55:384][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.09.57:422][437]Cmd: TRANSACTION UNDO
+[2021.02.08-14.09.57:422][437]LogEditorTransaction: Undo Create Actors
+[2021.02.08-14.09.57:426][437]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_231, Buffer: d061b1f0, Index Count: 0, Element: 5
+[2021.02.08-14.09.57:426][437]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_231' invalid (104 verts, 0 indices).
+[2021.02.08-14.09.57:427][437]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_231.BodySetup_0 when we are unable to.
+[2021.02.08-14.09.57:659][449]Cmd: TRANSACTION UNDO
+[2021.02.08-14.09.57:659][449]LogEditorTransaction: Undo Create Actors
+[2021.02.08-14.10.01:766][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.10.22:286][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.10.25:800][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.10.34:300][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.10.43:178][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.10.44:544][136]Cmd: POLY SELECT ADJACENT ALL
+[2021.02.08-14.10.46:070][226]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.10.48:237][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.10.49:571][431]Cmd: POLY SELECT ADJACENT ALL
+[2021.02.08-14.10.51:790][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.10.58:050][938]Cmd: DELETE
+[2021.02.08-14.10.58:050][938]Cmd: ACTOR DELETE
+[2021.02.08-14.10.58:057][938]LogEditorActor: Deleted Actor: Brush
+[2021.02.08-14.10.58:089][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.02.08-14.10.58:094][938]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2021.02.08-14.10.59:517][ 23]Cmd: TRANSACTION UNDO
+[2021.02.08-14.10.59:517][ 23]LogEditorTransaction: Undo Delete Actors
+[2021.02.08-14.10.59:521][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_225' invalid (104 verts, 0 indices).
+[2021.02.08-14.10.59:521][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_225.BodySetup_0 when we are unable to.
+[2021.02.08-14.10.59:521][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_226' invalid (104 verts, 0 indices).
+[2021.02.08-14.10.59:521][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_226.BodySetup_0 when we are unable to.
+[2021.02.08-14.10.59:521][ 23]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_227, Buffer: 0, Index Count: 0, Element: 3
+[2021.02.08-14.10.59:521][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_227' invalid (104 verts, 0 indices).
+[2021.02.08-14.10.59:521][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_227.BodySetup_0 when we are unable to.
+[2021.02.08-14.10.59:522][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_228' invalid (104 verts, 0 indices).
+[2021.02.08-14.10.59:522][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_228.BodySetup_0 when we are unable to.
+[2021.02.08-14.10.59:522][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_229' invalid (104 verts, 0 indices).
+[2021.02.08-14.10.59:522][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_229.BodySetup_0 when we are unable to.
+[2021.02.08-14.10.59:524][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_230' invalid (104 verts, 0 indices).
+[2021.02.08-14.10.59:524][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_230.BodySetup_0 when we are unable to.
+[2021.02.08-14.10.59:524][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_231' invalid (104 verts, 0 indices).
+[2021.02.08-14.10.59:524][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_231.BodySetup_0 when we are unable to.
+[2021.02.08-14.10.59:524][ 23]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_232' invalid (104 verts, 0 indices).
+[2021.02.08-14.10.59:524][ 23]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_232.BodySetup_0 when we are unable to.
+[2021.02.08-14.11.35:704][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.11.37:872][896]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.11.39:302][980]Cmd: TRANSACTION UNDO
+[2021.02.08-14.11.39:303][980]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.08-14.11.39:704][  2]Cmd: TRANSACTION UNDO
+[2021.02.08-14.11.39:704][  2]LogEditorTransaction: Undo Edit X
+[2021.02.08-14.11.59:605][120]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.12.20:562][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.12.20:695][373]Cmd: MODE SCALEGRID=0
+[2021.02.08-14.12.21:475][419]Cmd: MODE SCALEGRID=1
+[2021.02.08-14.12.28:612][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.12.34:041][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-14.12.50:140][966]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.12.53:016][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.13.01:568][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.13.05:332][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.13.07:163][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.13.08:814][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.13.10:573][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.13.12:302][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.13.13:871][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.13.15:431][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.13.38:244][765]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-14.14.35:568][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.14.41:252][828]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2021.02.08-14.14.46:341][129]Cmd: TRANSACTION UNDO
+[2021.02.08-14.14.46:341][129]LogEditorTransaction: Undo Move Actors
+[2021.02.08-14.14.49:111][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.14.50:462][373]Cmd: DELETE
+[2021.02.08-14.14.50:462][373]Cmd: ACTOR DELETE
+[2021.02.08-14.14.50:467][373]LogEditorActor: Deleted Actor: Brush
+[2021.02.08-14.14.50:505][373]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.02.08-14.14.50:511][373]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.02.08-14.14.53:283][538]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2021.02.08-14.14.54:146][588]Cmd: TRANSACTION UNDO
+[2021.02.08-14.14.54:146][588]LogEditorTransaction: Undo Brush Subtract
+[2021.02.08-14.14.55:171][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.14.56:137][704]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2021.02.08-14.15.09:335][483]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.15.22:604][259]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.15.27:982][574]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.15.31:429][701]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-14.15.53:463][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.15.55:740][355]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.15.56:989][427]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-14.15.57:058][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.02.08-14.15.57:315][427]LogSavePackage: Moving '../../../../../../Kasiowe/Studia/silniki/KatarzynaKnefel/Saved/Untitled_Auto87028490149D6E42DE56DF6BA81762AAE.tmp' to '../../../../../../Kasiowe/Studia/silniki/KatarzynaKnefel/Saved/Autosaves/Game/StarterContent/Maps/Untitled_Auto8.umap'
+[2021.02.08-14.15.57:324][427]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Untitled' took 0.305
+[2021.02.08-14.15.57:324][427]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.305
+[2021.02.08-14.16.02:662][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.16.07:145][  9]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-14.16.12:961][357]Cmd: POLY SELECT ADJACENT ALL
+[2021.02.08-14.16.22:747][942]Cmd: POLY SELECT ADJACENT WALLS
+[2021.02.08-14.16.24:838][ 66]Cmd: POLY SELECT ADJACENT ALL
+[2021.02.08-14.16.37:679][820]Cmd: DELETE
+[2021.02.08-14.16.37:679][820]Cmd: ACTOR DELETE
+[2021.02.08-14.16.37:684][820]LogEditorActor: Deleted Actor: Brush
+[2021.02.08-14.16.37:723][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.02.08-14.16.37:729][820]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.02.08-14.16.45:045][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.16.46:166][320]Cmd: POLY SELECT ADJACENT ALL
+[2021.02.08-14.16.47:055][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.16.56:635][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.16.57:899][ 17]Cmd: POLY SELECT ADJACENT ALL
+[2021.02.08-14.16.59:831][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.17.06:702][534]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.17.09:195][679]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.17.11:400][804]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.17.16:317][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.17.17:453][161]Cmd: POLY SELECT ADJACENT ALL
+[2021.02.08-14.17.18:478][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.17.21:945][420]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.17.37:285][324]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.17.55:929][422]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.18.27:238][268]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-14.18.38:772][957]Cmd: POLY SELECT ADJACENT WALLS
+[2021.02.08-14.18.44:422][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.18.54:010][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.18.55:475][932]Cmd: POLY SELECT ADJACENT WALLS
+[2021.02.08-14.18.56:367][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.19.08:847][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.19.10:096][793]Cmd: POLY SELECT ADJACENT WALLS
+[2021.02.08-14.19.10:844][834]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.19.22:811][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.02.08-14.19.24:343][630]Cmd: POLY SELECT ADJACENT WALLS
+[2021.02.08-14.19.28:488][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.19.32:277][ 92]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.19.42:279][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.19.43:879][782]Cmd: TRANSACTION UNDO
+[2021.02.08-14.19.43:879][782]LogEditorTransaction: Undo Create Actors
+[2021.02.08-14.19.43:880][782]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_652' invalid (448 verts, 0 indices).
+[2021.02.08-14.19.43:880][782]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Untitled.Untitled:PersistentLevel.ModelComponent_652.BodySetup_0 when we are unable to.
+[2021.02.08-14.19.46:286][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.19.50:859][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.19.55:061][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.02.08-14.20.24:138][154]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.21.10:793][909]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.21.20:224][463]Cmd: TRANSACTION UNDO
+[2021.02.08-14.21.20:224][463]LogEditorTransaction: Undo Move Actors
+[2021.02.08-14.21.21:299][523]Cmd: TRANSACTION UNDO
+[2021.02.08-14.21.21:299][523]LogEditorTransaction: Undo Move Actors
+[2021.02.08-14.21.34:070][269]Cmd: TRANSACTION UNDO
+[2021.02.08-14.21.34:070][269]LogEditorTransaction: Undo Scale Actors
+[2021.02.08-14.21.35:560][355]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.21.40:245][629]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.22.05:843][128]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.22.34:281][797]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.23.50:632][  7]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-14.23.52:114][ 96]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.02.08-14.23.53:208][160]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.02.08-14.23.53:267][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.02.08-14.23.53:572][160]LogSavePackage: Moving '../../../../../../Kasiowe/Studia/silniki/KatarzynaKnefel/Saved/UntitledF0EBF492487E6A064CE1B3A733F25BC5.tmp' to '../../../../../../Kasiowe/Studia/silniki/KatarzynaKnefel/Content/StarterContent/Maps/Untitled.umap'
+[2021.02.08-14.23.53:683][160]LogSavePackage: Moving '../../../../../../Kasiowe/Studia/silniki/KatarzynaKnefel/Saved/Untitled_BuiltData29A64CE943B35F9FD3E0B299BC9AEE4A.tmp' to '../../../../../../Kasiowe/Studia/silniki/KatarzynaKnefel/Content/StarterContent/Maps/Untitled_BuiltData.uasset'
